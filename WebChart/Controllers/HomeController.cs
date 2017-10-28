@@ -25,7 +25,7 @@ namespace WebChart.Controllers
             ViewBag.Message = "Your contact page.";
 
             string t = "F111111111111111111";
-
+t = "C222222222222";
             return View();
         }
     }
